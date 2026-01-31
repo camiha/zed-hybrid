@@ -1,0 +1,7 @@
+[package]
+name = "hybrid"
+version = "0.1.0"
+description = "hybrid theme"
+authors = ["KAMIHARA Takumi <hello.camiha@email.com>"]
+repository = "https://github.com/camiha/zed-hybrid"
+license = "MIT"
