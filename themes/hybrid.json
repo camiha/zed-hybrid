@@ -238,10 +238,10 @@
             "color": "#cc6666"
           },
           "variable": {
-            "color": "#b294bb"
+            "color": "#c5c8c6"
           },
           "variable.special": {
-            "color": "#b294bb"
+            "color": "#de935f"
           },
           "function": {
             "color": "#f0c674"
@@ -262,7 +262,7 @@
             "color": "#de935f"
           },
           "constructor": {
-            "color": "#8abeb7"
+            "color": "#f0c674"
           },
           "property": {
             "color": "#b294bb"
